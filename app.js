@@ -811,6 +811,27 @@ function renderProgressScreen() {
 }
 
 // ── Flashcards ──
+function shuffle(arr) {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
+function startAllFlashcards() {
+  flashcards = [];
+  for (const ld of db.leerdoelen) {
+    for (const sd of ld.subdoelen) {
+      if (sd.uitleg_tekst) {
+        flashcards.push({ front: sd.subdoel_titel, back: sd.uitleg_tekst });
+      }
+    }
+  }
+  shuffle(flashcards);
+  showFlashcardScreen();
+}
+
 function startFlashcards() {
   flashcards = [];
   for (const ld of db.leerdoelen) {
@@ -821,8 +842,13 @@ function startFlashcards() {
         back: ld.uitleg_tekst
       });
       for (const sd of ld.subdoelen) {
-        const questions = allQuestions.filter(q => q.subdoel_id === sd.subdoel_id);
-        if (questions.length > 0) {
+        if (sd.uitleg_tekst) {
+          flashcards.push({
+            front: sd.subdoel_titel,
+            back: sd.uitleg_tekst
+          });
+        } else {
+          const questions = allQuestions.filter(q => q.subdoel_id === sd.subdoel_id);
           const weakQs = questions.filter(q => getQuestionPriority(q.id) < 3);
           if (weakQs.length > 0) {
             flashcards.push({
@@ -835,6 +861,10 @@ function startFlashcards() {
     }
   }
 
+  showFlashcardScreen();
+}
+
+function showFlashcardScreen() {
   showScreen('flashcards');
   if (flashcards.length === 0) {
     document.getElementById('flash-empty').style.display = 'block';

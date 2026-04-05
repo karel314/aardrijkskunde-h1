@@ -10,6 +10,9 @@
       "uitleg_tekst": "De hoofdrivieren Rijn en Maas vormen samen met hun zijrivieren een stroomstelsel dat water afvoert uit een stroomgebied. De grens tussen twee stroomgebieden is de waterscheiding. Het lengteprofiel van een rivier bestaat uit bovenloop (smal, snel, veel erosie), middenloop (breder, heuvelachtig) en benedenloop (langzaam, meanderend, veel sedimentatie). Verval is het hoogteverschil tussen twee punten; verhang is het verval per kilometer. De Rijn is een gemengde rivier (smelt- en regenwater), de Maas een regenrivier. De waterafvoer verschilt per seizoen (regiem) en wordt gemeten als debiet (m³/s). Klimaatverandering zorgt voor onregelmatiger neerslagregiem, hogere piekafvoeren, smeltende gletsjers en zeespiegelstijging.",
       "subdoelen": [
         {
+          "subdoel_id": "1.1",
+          "subdoel_titel": "Stroomstelsel en stroomgebied",
+          "uitleg_tekst": "Een stroomstelsel is de hoofdrivier met al haar zijrivieren. Het stroomgebied is het hele gebied waaruit water via dat stelsel wordt afgevoerd. De grens heet de waterscheiding.",
           "vragen": [
             {
               "id": 1,
@@ -73,11 +76,12 @@
               "uitleg": "Regenwater valt eerst in het stroomgebied, stroomt via de bodem naar een zijrivier, wordt via de zijrivier afgevoerd naar de hoofdrivier, en uiteindelijk mondt de hoofdrivier uit in zee. Samen vormen de hoofdrivier en zijrivieren het stroomstelsel.",
               "juiste_antwoord": "1:A, 2:B, 3:C, 4:D"
             }
-          ],
-          "subdoel_id": "1.1",
-          "subdoel_titel": "Stroomstelsel en stroomgebied"
+          ]
         },
         {
+          "subdoel_id": "1.2",
+          "subdoel_titel": "Lengteprofiel: boven-, midden- en benedenloop",
+          "uitleg_tekst": "Van bron tot monding: bovenloop (smal, snel, erosie), middenloop (breder, heuvelachtig) en benedenloop (langzaam, meanderend, sedimentatie).",
           "vragen": [
             {
               "id": 6,
@@ -142,11 +146,12 @@
               "uitleg": "Het lengteprofiel loopt van de bron (waar de rivier ontspringt in de bergen) via de bovenloop, naar de middenloop in het heuvelachtige gebied, en ten slotte de benedenloop waar de rivier uitmondt in zee.",
               "juiste_antwoord": "1:C, 2:A, 3:B"
             }
-          ],
-          "subdoel_id": "1.2",
-          "subdoel_titel": "Lengteprofiel: boven-, midden- en benedenloop"
+          ]
         },
         {
+          "subdoel_id": "1.3",
+          "subdoel_titel": "Verval en verhang",
+          "uitleg_tekst": "Verval = hoogteverschil tussen twee punten (in m). Verhang = verval gedeeld door de afstand (in m/km).",
           "vragen": [
             {
               "id": 11,
@@ -210,11 +215,12 @@
               "uitleg": "Om het verhang te berekenen bepaal je eerst het verval (hoogteverschil in meters), dan de afstand (in km), vervolgens deel je het verval door de afstand, en druk je het uit in m/km.",
               "juiste_antwoord": "1:B, 2:C, 3:A, 4:D"
             }
-          ],
-          "subdoel_id": "1.3",
-          "subdoel_titel": "Verval en verhang"
+          ]
         },
         {
+          "subdoel_id": "1.4",
+          "subdoel_titel": "Soorten rivieren en regiem",
+          "uitleg_tekst": "De Rijn is een gemengde rivier (smelt- en regenwater), de Maas een regenrivier. Waterafvoer wisselt per seizoen (regiem) en wordt gemeten als debiet (m³/s).",
           "vragen": [
             {
               "id": 16,
@@ -278,11 +284,12 @@
               "uitleg": "Een regenrivier heeft de hoogste afvoer in de winter (meeste neerslag). Een gemengde rivier piekt in het voorjaar/vroege zomer (combinatie sneeuwsmelt en regen). Een gletsjerrivier piekt in de zomer als de gletsjers het sterkst smelten.",
               "juiste_antwoord": "1:A, 2:B, 3:C"
             }
-          ],
-          "subdoel_id": "1.4",
-          "subdoel_titel": "Soorten rivieren en regiem"
+          ]
         },
         {
+          "subdoel_id": "1.5",
+          "subdoel_titel": "Klimaatverandering en rivieren",
+          "uitleg_tekst": "Klimaatverandering zorgt voor onregelmatiger neerslag, hogere piekafvoeren, smeltende gletsjers en zeespiegelstijging.",
           "vragen": [
             {
               "id": 21,
@@ -350,9 +357,7 @@
               "uitleg": "Klimaatverandering veroorzaakt een onregelmatiger neerslagregiem, waardoor er vaker hevige buien vallen. De rivieren moeten daardoor in korte tijd veel water afvoeren (piekafvoer), wat het overstromingsrisico vergroot.",
               "juiste_antwoord": "1:B, 2:D, 3:A, 4:C"
             }
-          ],
-          "subdoel_id": "1.5",
-          "subdoel_titel": "Klimaatverandering en rivieren"
+          ]
         }
       ],
       "leerdoel_id": 1,
@@ -363,6 +368,9 @@
       "uitleg_tekst": "In de benedenloop zijn dijken aangelegd. Het dwarsprofiel bestaat uit winterdijken, uiterwaarden, zomerdijken en het zomerbed. Het buitendijks gebied ligt tussen de winterdijken; het binnendijks gebied erachter. Kanalisatie (rechttrekken bochten), kribben en stuwen reguleren de waterafvoer en scheepvaart. Ontbossing en verstening van het oppervlak verkorten de vertragingstijd, waardoor piekafvoeren hoger en sneller worden.",
       "subdoelen": [
         {
+          "subdoel_id": "2.1",
+          "subdoel_titel": "Dwarsprofiel van de rivier",
+          "uitleg_tekst": "Van buiten naar binnen: winterdijk → uiterwaard → zomerdijk → zomerbed. Buitendijks = tussen de winterdijken; binnendijks = erachter.",
           "vragen": [
             {
               "id": 26,
@@ -431,11 +439,12 @@
               "uitleg": "Vanuit het binnendijkse gebied ga je eerst over de winterdijk (de hoge buitenste dijk), dan door de uiterwaard, vervolgens over de zomerdijk (de lagere binnenste dijk), en dan bereik je het zomerbed waar de rivier doorheen stroomt.",
               "juiste_antwoord": "1:C, 2:B, 3:A, 4:D"
             }
-          ],
-          "subdoel_id": "2.1",
-          "subdoel_titel": "Dwarsprofiel van de rivier"
+          ]
         },
         {
+          "subdoel_id": "2.2",
+          "subdoel_titel": "Kanalisatie, kribben en stuwen",
+          "uitleg_tekst": "Kanalisatie (bochten rechttrekken), kribben (stenen dammetjes) en stuwen reguleren waterafvoer en houden de vaargeul op diepte.",
           "vragen": [
             {
               "id": 31,
@@ -502,11 +511,12 @@
               "uitleg": "Door het geringe verval gaat de rivier meanderen, wat leidt tot hogere overstromingsrisico's en hogere kosten voor de scheepvaart. Daarom grijpt de mens in met kanalisatie (bochten rechttrekken), waardoor het water sneller wordt afgevoerd en de vaarroutes korter worden.",
               "juiste_antwoord": "1:C, 2:A, 3:B, 4:D"
             }
-          ],
-          "subdoel_id": "2.2",
-          "subdoel_titel": "Kanalisatie, kribben en stuwen"
+          ]
         },
         {
+          "subdoel_id": "2.3",
+          "subdoel_titel": "Verstening, ontbossing en vertragingstijd",
+          "uitleg_tekst": "Verstening en ontbossing verkorten de vertragingstijd: regenwater bereikt de rivier sneller, waardoor piekafvoeren hoger en eerder optreden.",
           "vragen": [
             {
               "id": 36,
@@ -571,9 +581,7 @@
               "uitleg": "Verstedelijking zorgt voor verstening, waardoor de infiltratie afneemt en water sneller naar de rivier stroomt (kortere vertragingstijd). Dit leidt tot een verhoogde en versnelde piekafvoer, waardoor het overstromingsrisico toeneemt.",
               "juiste_antwoord": "1:B, 2:C, 3:A, 4:D"
             }
-          ],
-          "subdoel_id": "2.3",
-          "subdoel_titel": "Verstening, ontbossing en vertragingstijd"
+          ]
         }
       ],
       "leerdoel_id": 2,
@@ -586,6 +594,7 @@
         {
           "subdoel_id": "3.1",
           "subdoel_titel": "Beleidsomslag na 1993 en 1995",
+          "uitleg_tekst": "Na de bijna-overstromingen van 1993 en 1995 (250.000 geëvacueerden) verschoof het beleid van dijkverzwaring naar rivierbedverruiming.",
           "vragen": [
             {
               "id": 41,
@@ -655,6 +664,7 @@
         {
           "subdoel_id": "3.2",
           "subdoel_titel": "Maatregelen rivierbedverruiming",
+          "uitleg_tekst": "Ruimte voor de rivier (2007-2019): zomerbedverdieping, kribverlaging, uiterwaardverlaging, dijkverlegging en nevengeulen (bijv. Reevediep bij Kampen).",
           "vragen": [
             {
               "id": 46,
@@ -725,6 +735,7 @@
         {
           "subdoel_id": "3.3",
           "subdoel_titel": "Internationale samenwerking en organisaties",
+          "uitleg_tekst": "Maatregelen bovenstrooms beïnvloeden de benedenloop, dus internationaal rivierbeleid is noodzakelijk. Het Hoogwaterbeschermingsprogramma versterkt waterkeringen tot 2050.",
           "vragen": [
             {
               "id": 51,
@@ -802,6 +813,7 @@
         {
           "subdoel_id": "4.1",
           "subdoel_titel": "Deltaprogramma, KNMI en IPCC",
+          "uitleg_tekst": "Het jaarlijkse Deltaprogramma beschrijft hoe Nederland omgaat met waterveiligheid en zoetwater, op basis van KNMI- en IPCC-scenario's.",
           "vragen": [
             {
               "id": 56,
@@ -872,6 +884,7 @@
         {
           "subdoel_id": "4.2",
           "subdoel_titel": "Integraal waterbeheer en deltabeslissingen",
+          "uitleg_tekst": "Deltabeslissingen: waterveiligheid, zoetwatervoorziening en ruimtelijke adaptatie. Integraal waterbeheer = samenwerking van overheden, waterschappen en andere partijen.",
           "vragen": [
             {
               "id": 61,
@@ -942,6 +955,7 @@
         {
           "subdoel_id": "4.3",
           "subdoel_titel": "Drietrapsstrategie",
+          "uitleg_tekst": "Vasthouden (retentie/infiltratie) → bergen (tijdelijk opslaan) → afvoeren (water naar zee leiden).",
           "vragen": [
             {
               "id": 66,
@@ -1020,6 +1034,7 @@
         {
           "subdoel_id": "5.1",
           "subdoel_titel": "Dijkringen en Deltawerken",
+          "uitleg_tekst": "De helft van Nederland ligt onder zeeniveau. Dijkringen beschermen tegen rivieren, meren en zee. De Deltawerken (13 bouwwerken) beschermen de Zuidwestelijke Delta.",
           "vragen": [
             {
               "id": 71,
@@ -1090,6 +1105,7 @@
         {
           "subdoel_id": "5.2",
           "subdoel_titel": "IJsselmeergebied",
+          "uitleg_tekst": "Het IJsselmeer wordt gevoed door de IJssel; bij eb wordt water gespuid via de Afsluitdijk. Zeespiegelstijging maakt spuien moeilijker → extra pompen nodig.",
           "vragen": [
             {
               "id": 76,
@@ -1160,6 +1176,7 @@
         {
           "subdoel_id": "5.3",
           "subdoel_titel": "Zuidwestelijke Delta",
+          "uitleg_tekst": "Na de Watersnoodramp (1953) werden de zeearmen afgesloten door de Deltawerken. Alleen de Westerschelde bleef open voor scheepvaart naar Antwerpen.",
           "vragen": [
             {
               "id": 81,
@@ -1231,6 +1248,7 @@
         {
           "subdoel_id": "5.4",
           "subdoel_titel": "Springtij, bodemdaling en verhoogd gevaar",
+          "uitleg_tekst": "Overstromingsgevaar wordt versterkt door springtij + noordwesterstorm + piekafvoeren + bodemdaling door ontwatering.",
           "vragen": [
             {
               "id": 86,
@@ -1307,6 +1325,7 @@
         {
           "subdoel_id": "6.1",
           "subdoel_titel": "Watertekort en zoetwatervoorziening",
+          "uitleg_tekst": "Rijn en Maas voeren zoetwater aan via het hoofdwatersysteem. Gebieden zonder rivieraanvoer zijn afhankelijk van regen- en grondwater.",
           "vragen": [
             {
               "id": 91,
@@ -1378,6 +1397,7 @@
         {
           "subdoel_id": "6.2",
           "subdoel_titel": "IJsselmeer als zoetwaterreservoir",
+          "uitleg_tekst": "Het IJsselmeer is een strategisch zoetwaterreservoir: zomer → peil omhoog (droogtebuffer), winter → peil omlaag (ruimte voor water).",
           "vragen": [
             {
               "id": 96,
@@ -1448,6 +1468,7 @@
         {
           "subdoel_id": "6.3",
           "subdoel_titel": "Verzilting in de Zuidwestelijke Delta",
+          "uitleg_tekst": "Door zeespiegelstijging en bodemdaling dringt zout water de ondergrond in (zoute kwel). Waterhouderijen slaan zoetwater op als buffer.",
           "vragen": [
             {
               "id": 101,
@@ -1529,6 +1550,7 @@
         {
           "subdoel_id": "7.1",
           "subdoel_titel": "Begrippen paragraaf 1.1",
+          "uitleg_tekst": "Kernbegrippen: stroomstelsel, stroomgebied, waterscheiding, lengteprofiel, verval, verhang, debiet, regiem en piekafvoer.",
           "vragen": [
             {
               "id": 106,
@@ -1562,6 +1584,7 @@
         {
           "subdoel_id": "7.2",
           "subdoel_titel": "Begrippen paragraaf 1.2",
+          "uitleg_tekst": "Kernbegrippen: dwarsprofiel, zomerbed, uiterwaard, buitendijks/binnendijks, kanalisatie, kribben, stuwen en vertragingstijd.",
           "vragen": [
             {
               "id": 109,
@@ -1595,6 +1618,7 @@
         {
           "subdoel_id": "7.3",
           "subdoel_titel": "Begrippen paragraaf 1.3",
+          "uitleg_tekst": "Kernbegrippen: rivierbedverruiming, Ruimte voor de rivier, Hoogwaterbeschermingsprogramma, waterkeringen en waterschappen.",
           "vragen": [
             {
               "id": 112,
@@ -1628,6 +1652,7 @@
         {
           "subdoel_id": "7.4",
           "subdoel_titel": "Begrippen paragraaf 1.4",
+          "uitleg_tekst": "Kernbegrippen: Deltaprogramma, KNMI, IPCC, acceptatie, adaptatie, integraal waterbeheer, drietrapsstrategie en infiltratie.",
           "vragen": [
             {
               "id": 115,
@@ -1661,6 +1686,7 @@
         {
           "subdoel_id": "7.5",
           "subdoel_titel": "Begrippen paragraaf 1.5",
+          "uitleg_tekst": "Kernbegrippen: dijkring, ontwatering, overstromingsrisicobewustzijn en springtij.",
           "vragen": [
             {
               "id": 118,
@@ -1694,6 +1720,7 @@
         {
           "subdoel_id": "7.6",
           "subdoel_titel": "Begrippen paragraaf 1.6",
+          "uitleg_tekst": "Kernbegrippen: aanvoeren, grondwateronttrekking en verzilting.",
           "vragen": [
             {
               "id": 121,
@@ -1735,6 +1762,7 @@
         {
           "subdoel_id": "8.1",
           "subdoel_titel": "Klimaat en water",
+          "uitleg_tekst": "Klimaatverandering → onregelmatiger neerslag + smeltende gletsjers → hogere piekafvoeren + zeespiegelstijging → meer overstromingsrisico.",
           "vragen": [
             {
               "id": 124,
@@ -1803,6 +1831,7 @@
         {
           "subdoel_id": "8.2",
           "subdoel_titel": "Mens en overstromingsrisico",
+          "uitleg_tekst": "Verstening + ontbossing + kanalisatie → kortere vertragingstijd → hogere piekafvoeren. Ontwatering → bodemdaling → hoger relatief zeeniveau.",
           "vragen": [
             {
               "id": 129,
@@ -1872,6 +1901,7 @@
         {
           "subdoel_id": "8.3",
           "subdoel_titel": "Beleid en bescherming",
+          "uitleg_tekst": "Ruimte voor de rivier → meer bergingscapaciteit. Drietrapsstrategie: vasthouden → bergen → afvoeren. Flexibel IJsselmeerpeil → droogtebuffer.",
           "vragen": [
             {
               "id": 134,
