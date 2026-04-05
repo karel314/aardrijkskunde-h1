@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'ak-h1-v1';
+const CACHE_VERSION = 'ak-h1-v1.1';
 const ASSETS = [
   './',
   './index.html',

@@ -64,19 +64,14 @@
               "id": 5,
               "type": "volgorde",
               "vraag": "Zet de volgende onderdelen in de juiste volgorde van het pad dat regenwater aflegt in een stroomgebied, van begin tot eind.",
-              "opties": [
-                "Neerslag valt in het stroomgebied",
-                "Water stroomt via de bodem naar een zijrivier",
-                "Zijrivier voert water af naar de hoofdrivier",
-                "Hoofdrivier mondt uit in zee"
-              ],
-              "juiste_volgorde": [
-                "Neerslag valt in het stroomgebied",
-                "Water stroomt via de bodem naar een zijrivier",
-                "Zijrivier voert water af naar de hoofdrivier",
-                "Hoofdrivier mondt uit in zee"
-              ],
-              "uitleg": "Regenwater valt eerst in het stroomgebied, stroomt via de bodem naar een zijrivier, wordt via de zijrivier afgevoerd naar de hoofdrivier, en uiteindelijk mondt de hoofdrivier uit in zee. Samen vormen de hoofdrivier en zijrivieren het stroomstelsel."
+              "opties": {
+                "A": "Neerslag valt in het stroomgebied",
+                "B": "Water stroomt via de bodem naar een zijrivier",
+                "C": "Zijrivier voert water af naar de hoofdrivier",
+                "D": "Hoofdrivier mondt uit in zee"
+              },
+              "uitleg": "Regenwater valt eerst in het stroomgebied, stroomt via de bodem naar een zijrivier, wordt via de zijrivier afgevoerd naar de hoofdrivier, en uiteindelijk mondt de hoofdrivier uit in zee. Samen vormen de hoofdrivier en zijrivieren het stroomstelsel.",
+              "juiste_antwoord": "1:A, 2:B, 3:C, 4:D"
             }
           ],
           "subdoel_id": "1.1",
@@ -139,17 +134,13 @@
               "id": 10,
               "type": "volgorde",
               "vraag": "Zet de delen van het lengteprofiel in volgorde van bron naar monding.",
-              "opties": [
-                "Middenloop",
-                "Benedenloop",
-                "Bovenloop"
-              ],
-              "juiste_volgorde": [
-                "Bovenloop",
-                "Middenloop",
-                "Benedenloop"
-              ],
-              "uitleg": "Het lengteprofiel loopt van de bron (waar de rivier ontspringt in de bergen) via de bovenloop, naar de middenloop in het heuvelachtige gebied, en ten slotte de benedenloop waar de rivier uitmondt in zee."
+              "opties": {
+                "A": "Middenloop",
+                "B": "Benedenloop",
+                "C": "Bovenloop"
+              },
+              "uitleg": "Het lengteprofiel loopt van de bron (waar de rivier ontspringt in de bergen) via de bovenloop, naar de middenloop in het heuvelachtige gebied, en ten slotte de benedenloop waar de rivier uitmondt in zee.",
+              "juiste_antwoord": "1:C, 2:A, 3:B"
             }
           ],
           "subdoel_id": "1.2",
@@ -210,19 +201,14 @@
               "id": 15,
               "type": "volgorde",
               "vraag": "Zet de stappen voor het berekenen van het verhang in de juiste volgorde.",
-              "opties": [
-                "Deel het verval door de afstand in kilometers",
-                "Bepaal het hoogteverschil (verval) tussen de twee punten",
-                "Bepaal de afstand in kilometers tussen de twee punten",
-                "Noteer het resultaat in m/km"
-              ],
-              "juiste_volgorde": [
-                "Bepaal het hoogteverschil (verval) tussen de twee punten",
-                "Bepaal de afstand in kilometers tussen de twee punten",
-                "Deel het verval door de afstand in kilometers",
-                "Noteer het resultaat in m/km"
-              ],
-              "uitleg": "Om het verhang te berekenen bepaal je eerst het verval (hoogteverschil in meters), dan de afstand (in km), vervolgens deel je het verval door de afstand, en druk je het uit in m/km."
+              "opties": {
+                "A": "Deel het verval door de afstand in kilometers",
+                "B": "Bepaal het hoogteverschil (verval) tussen de twee punten",
+                "C": "Bepaal de afstand in kilometers tussen de twee punten",
+                "D": "Noteer het resultaat in m/km"
+              },
+              "uitleg": "Om het verhang te berekenen bepaal je eerst het verval (hoogteverschil in meters), dan de afstand (in km), vervolgens deel je het verval door de afstand, en druk je het uit in m/km.",
+              "juiste_antwoord": "1:B, 2:C, 3:A, 4:D"
             }
           ],
           "subdoel_id": "1.3",
@@ -284,17 +270,13 @@
               "id": 20,
               "type": "volgorde",
               "vraag": "Zet de drie soorten rivieren in volgorde van het seizoen waarin ze hun hoogste waterafvoer hebben, van vroegst in het jaar naar laatst.",
-              "opties": [
-                "Regenrivier (piek in de winter)",
-                "Gemengde rivier (piek in het voorjaar/vroege zomer)",
-                "Gletsjerrivier (piek in de zomer)"
-              ],
-              "juiste_volgorde": [
-                "Regenrivier (piek in de winter)",
-                "Gemengde rivier (piek in het voorjaar/vroege zomer)",
-                "Gletsjerrivier (piek in de zomer)"
-              ],
-              "uitleg": "Een regenrivier heeft de hoogste afvoer in de winter (meeste neerslag). Een gemengde rivier piekt in het voorjaar/vroege zomer (combinatie sneeuwsmelt en regen). Een gletsjerrivier piekt in de zomer als de gletsjers het sterkst smelten."
+              "opties": {
+                "A": "Regenrivier (piek in de winter)",
+                "B": "Gemengde rivier (piek in het voorjaar/vroege zomer)",
+                "C": "Gletsjerrivier (piek in de zomer)"
+              },
+              "uitleg": "Een regenrivier heeft de hoogste afvoer in de winter (meeste neerslag). Een gemengde rivier piekt in het voorjaar/vroege zomer (combinatie sneeuwsmelt en regen). Een gletsjerrivier piekt in de zomer als de gletsjers het sterkst smelten.",
+              "juiste_antwoord": "1:A, 2:B, 3:C"
             }
           ],
           "subdoel_id": "1.4",
@@ -359,19 +341,14 @@
               "id": 25,
               "type": "volgorde",
               "vraag": "Zet de oorzaak-gevolgketen van klimaatverandering en overstromingsrisico in de juiste volgorde.",
-              "opties": [
-                "Rivieren moeten meer water in kortere tijd afvoeren",
-                "Klimaatverandering leidt tot onregelmatiger neerslagregiem",
-                "Overstromingsrisico neemt toe",
-                "Hevige regenbuien vallen vaker en in kortere tijd"
-              ],
-              "juiste_volgorde": [
-                "Klimaatverandering leidt tot onregelmatiger neerslagregiem",
-                "Hevige regenbuien vallen vaker en in kortere tijd",
-                "Rivieren moeten meer water in kortere tijd afvoeren",
-                "Overstromingsrisico neemt toe"
-              ],
-              "uitleg": "Klimaatverandering veroorzaakt een onregelmatiger neerslagregiem, waardoor er vaker hevige buien vallen. De rivieren moeten daardoor in korte tijd veel water afvoeren (piekafvoer), wat het overstromingsrisico vergroot."
+              "opties": {
+                "A": "Rivieren moeten meer water in kortere tijd afvoeren",
+                "B": "Klimaatverandering leidt tot onregelmatiger neerslagregiem",
+                "C": "Overstromingsrisico neemt toe",
+                "D": "Hevige regenbuien vallen vaker en in kortere tijd"
+              },
+              "uitleg": "Klimaatverandering veroorzaakt een onregelmatiger neerslagregiem, waardoor er vaker hevige buien vallen. De rivieren moeten daardoor in korte tijd veel water afvoeren (piekafvoer), wat het overstromingsrisico vergroot.",
+              "juiste_antwoord": "1:B, 2:D, 3:A, 4:C"
             }
           ],
           "subdoel_id": "1.5",
@@ -445,19 +422,14 @@
               "id": 30,
               "type": "volgorde",
               "vraag": "Zet de onderdelen van het dwarsprofiel in volgorde van links naar rechts, gezien vanaf het binnendijkse gebied aan de linkerkant naar het midden van de rivier.",
-              "opties": [
-                "Zomerdijk",
-                "Uiterwaard",
-                "Winterdijk",
-                "Zomerbed (rivier)"
-              ],
-              "juiste_volgorde": [
-                "Winterdijk",
-                "Uiterwaard",
-                "Zomerdijk",
-                "Zomerbed (rivier)"
-              ],
-              "uitleg": "Vanuit het binnendijkse gebied ga je eerst over de winterdijk (de hoge buitenste dijk), dan door de uiterwaard, vervolgens over de zomerdijk (de lagere binnenste dijk), en dan bereik je het zomerbed waar de rivier doorheen stroomt."
+              "opties": {
+                "A": "Zomerdijk",
+                "B": "Uiterwaard",
+                "C": "Winterdijk",
+                "D": "Zomerbed (rivier)"
+              },
+              "uitleg": "Vanuit het binnendijkse gebied ga je eerst over de winterdijk (de hoge buitenste dijk), dan door de uiterwaard, vervolgens over de zomerdijk (de lagere binnenste dijk), en dan bereik je het zomerbed waar de rivier doorheen stroomt.",
+              "juiste_antwoord": "1:C, 2:B, 3:A, 4:D"
             }
           ],
           "subdoel_id": "2.1",
@@ -521,19 +493,14 @@
               "id": 35,
               "type": "volgorde",
               "vraag": "Zet de oorzaak-gevolgketen van meandering en menselijk ingrijpen in de juiste volgorde.",
-              "opties": [
-                "Overstromingsrisico en kosten scheepvaart nemen toe",
-                "De mens past kanalisatie toe: bochten worden rechtgetrokken",
-                "Door het geringe verval in de benedenloop gaat de rivier meanderen",
-                "Water wordt sneller afgevoerd en vaarroutes worden korter"
-              ],
-              "juiste_volgorde": [
-                "Door het geringe verval in de benedenloop gaat de rivier meanderen",
-                "Overstromingsrisico en kosten scheepvaart nemen toe",
-                "De mens past kanalisatie toe: bochten worden rechtgetrokken",
-                "Water wordt sneller afgevoerd en vaarroutes worden korter"
-              ],
-              "uitleg": "Door het geringe verval gaat de rivier meanderen, wat leidt tot hogere overstromingsrisico's en hogere kosten voor de scheepvaart. Daarom grijpt de mens in met kanalisatie (bochten rechttrekken), waardoor het water sneller wordt afgevoerd en de vaarroutes korter worden."
+              "opties": {
+                "A": "Overstromingsrisico en kosten scheepvaart nemen toe",
+                "B": "De mens past kanalisatie toe: bochten worden rechtgetrokken",
+                "C": "Door het geringe verval in de benedenloop gaat de rivier meanderen",
+                "D": "Water wordt sneller afgevoerd en vaarroutes worden korter"
+              },
+              "uitleg": "Door het geringe verval gaat de rivier meanderen, wat leidt tot hogere overstromingsrisico's en hogere kosten voor de scheepvaart. Daarom grijpt de mens in met kanalisatie (bochten rechttrekken), waardoor het water sneller wordt afgevoerd en de vaarroutes korter worden.",
+              "juiste_antwoord": "1:C, 2:A, 3:B, 4:D"
             }
           ],
           "subdoel_id": "2.2",
@@ -595,19 +562,14 @@
               "id": 40,
               "type": "volgorde",
               "vraag": "Zet de oorzaak-gevolgketen van verstedelijking en wateroverlast in de juiste volgorde.",
-              "opties": [
-                "Verhoogde en versnelde piekafvoer in de rivier",
-                "Verstedelijking leidt tot verstening van het oppervlak",
-                "Infiltratie neemt af en regenwater stroomt sneller naar de rivier",
-                "Overstromingsrisico neemt toe"
-              ],
-              "juiste_volgorde": [
-                "Verstedelijking leidt tot verstening van het oppervlak",
-                "Infiltratie neemt af en regenwater stroomt sneller naar de rivier",
-                "Verhoogde en versnelde piekafvoer in de rivier",
-                "Overstromingsrisico neemt toe"
-              ],
-              "uitleg": "Verstedelijking zorgt voor verstening, waardoor de infiltratie afneemt en water sneller naar de rivier stroomt (kortere vertragingstijd). Dit leidt tot een verhoogde en versnelde piekafvoer, waardoor het overstromingsrisico toeneemt."
+              "opties": {
+                "A": "Verhoogde en versnelde piekafvoer in de rivier",
+                "B": "Verstedelijking leidt tot verstening van het oppervlak",
+                "C": "Infiltratie neemt af en regenwater stroomt sneller naar de rivier",
+                "D": "Overstromingsrisico neemt toe"
+              },
+              "uitleg": "Verstedelijking zorgt voor verstening, waardoor de infiltratie afneemt en water sneller naar de rivier stroomt (kortere vertragingstijd). Dit leidt tot een verhoogde en versnelde piekafvoer, waardoor het overstromingsrisico toeneemt.",
+              "juiste_antwoord": "1:B, 2:C, 3:A, 4:D"
             }
           ],
           "subdoel_id": "2.3",
@@ -668,26 +630,25 @@
                 "De overstromingen van 1995 troffen alleen het Maasgebied",
                 "Na 1995 verschoof het beleid van dijkverzwaring naar rivierbedverruiming"
               ],
-              "juiste_antwoorden": [0, 1, 3],
+              "juiste_antwoorden": [
+                0,
+                1,
+                3
+              ],
               "uitleg": "In 1993 werden circa 25.000 mensen langs de Maas geëvacueerd, en in 1995 circa 250.000 mensen. De crisis van 1995 trof niet alleen het Maasgebied maar ook het Rijngebied. Na deze gebeurtenissen verschoof het beleid van dijkverzwaring naar rivierbedverruiming."
             },
             {
               "id": 45,
               "type": "volgorde",
               "vraag": "Zet de gebeurtenissen in de juiste chronologische volgorde.",
-              "opties": [
-                "Start programma Ruimte voor de rivier",
-                "Bijna-overstroming langs de Maas met 25.000 evacuaties",
-                "Beleidsomslag van dijkverzwaring naar rivierbedverruiming",
-                "Bijna-overstroming langs Rijn en Maas met 250.000 evacuaties"
-              ],
-              "juiste_volgorde": [
-                "Bijna-overstroming langs de Maas met 25.000 evacuaties",
-                "Bijna-overstroming langs Rijn en Maas met 250.000 evacuaties",
-                "Beleidsomslag van dijkverzwaring naar rivierbedverruiming",
-                "Start programma Ruimte voor de rivier"
-              ],
-              "uitleg": "Eerst was er de bijna-overstroming in december 1993 (Maas, 25.000 evacuaties), daarna in januari 1995 (Rijn en Maas, 250.000 evacuaties). Dit leidde tot de beleidsomslag naar rivierbedverruiming, wat uiteindelijk resulteerde in het programma Ruimte voor de rivier (2007-2019)."
+              "opties": {
+                "A": "Start programma Ruimte voor de rivier",
+                "B": "Bijna-overstroming langs de Maas met 25.000 evacuaties",
+                "C": "Beleidsomslag van dijkverzwaring naar rivierbedverruiming",
+                "D": "Bijna-overstroming langs Rijn en Maas met 250.000 evacuaties"
+              },
+              "uitleg": "Eerst was er de bijna-overstroming in december 1993 (Maas, 25.000 evacuaties), daarna in januari 1995 (Rijn en Maas, 250.000 evacuaties). Dit leidde tot de beleidsomslag naar rivierbedverruiming, wat uiteindelijk resulteerde in het programma Ruimte voor de rivier (2007-2019).",
+              "juiste_antwoord": "1:B, 2:D, 3:C, 4:A"
             }
           ]
         },
@@ -739,26 +700,25 @@
                 "Uiterwaardverlaging",
                 "Dijkverlegging"
               ],
-              "juiste_antwoorden": [0, 2, 3],
+              "juiste_antwoorden": [
+                0,
+                2,
+                3
+              ],
               "uitleg": "Kribverlaging, uiterwaardverlaging en dijkverlegging zijn maatregelen in het buitendijks gebied (tussen de winterdijken). Noodoverloopgebieden liggen juist achter de dijken (binnendijks) en worden alleen bij extreme situaties ingezet."
             },
             {
               "id": 50,
               "type": "volgorde",
               "vraag": "Zet de maatregelen van rivierbedverruiming in volgorde van de locatie waar ze worden toegepast: van binnen het zomerbed naar achter de winterdijken.",
-              "opties": [
-                "Dijkverlegging (winterdijk verplaatsen)",
-                "Noodoverloopgebied (achter de dijk)",
-                "Zomerbedverdieping (bodem uitgraven)",
-                "Uiterwaardverlaging (tussen zomer- en winterdijk)"
-              ],
-              "juiste_volgorde": [
-                "Zomerbedverdieping (bodem uitgraven)",
-                "Uiterwaardverlaging (tussen zomer- en winterdijk)",
-                "Dijkverlegging (winterdijk verplaatsen)",
-                "Noodoverloopgebied (achter de dijk)"
-              ],
-              "uitleg": "Van binnen naar buiten: zomerbedverdieping vindt plaats in het zomerbed zelf, uiterwaardverlaging in de uiterwaarden tussen zomer- en winterdijk, dijkverlegging op de plek van de winterdijk, en noodoverloopgebieden liggen achter de winterdijk in het binnendijks gebied."
+              "opties": {
+                "A": "Dijkverlegging (winterdijk verplaatsen)",
+                "B": "Noodoverloopgebied (achter de dijk)",
+                "C": "Zomerbedverdieping (bodem uitgraven)",
+                "D": "Uiterwaardverlaging (tussen zomer- en winterdijk)"
+              },
+              "uitleg": "Van binnen naar buiten: zomerbedverdieping vindt plaats in het zomerbed zelf, uiterwaardverlaging in de uiterwaarden tussen zomer- en winterdijk, dijkverlegging op de plek van de winterdijk, en noodoverloopgebieden liggen achter de winterdijk in het binnendijks gebied.",
+              "juiste_antwoord": "1:C, 2:D, 3:A, 4:B"
             }
           ]
         },
@@ -809,26 +769,25 @@
                 "Het is onderdeel van het programma Ruimte voor de rivier (2007-2019)",
                 "Waterkeringen omvatten onder andere dijken, dammen en sluizen"
               ],
-              "juiste_antwoorden": [0, 1, 3],
+              "juiste_antwoorden": [
+                0,
+                1,
+                3
+              ],
               "uitleg": "Het Hoogwaterbeschermingsprogramma versterkt de primaire waterkeringen tot 2050 en wordt uitgevoerd door Rijkswaterstaat en de waterschappen. Het is niet onderdeel van Ruimte voor de rivier, maar juist het vervolg daarop. Waterkeringen omvatten inderdaad dijken, dammen, sluizen en duinen."
             },
             {
               "id": 55,
               "type": "volgorde",
               "vraag": "Zet de bestuursniveaus van waterbeheer in Nederland in volgorde van lokaal naar internationaal.",
-              "opties": [
-                "Rijnministersconferentie (internationaal overleg)",
-                "Rijkswaterstaat (nationale waterstaat)",
-                "Waterschappen (regionaal waterbeheer)",
-                "Gemeente (lokale riolering en waterafvoer)"
-              ],
-              "juiste_volgorde": [
-                "Gemeente (lokale riolering en waterafvoer)",
-                "Waterschappen (regionaal waterbeheer)",
-                "Rijkswaterstaat (nationale waterstaat)",
-                "Rijnministersconferentie (internationaal overleg)"
-              ],
-              "uitleg": "Van lokaal naar internationaal: gemeenten beheren de lokale riolering, waterschappen het regionale waterbeheer, Rijkswaterstaat de nationale waterstaat en waterwerken, en de Rijnministersconferentie coördineert het internationale beleid voor het gehele stroomgebied van de Rijn."
+              "opties": {
+                "A": "Rijnministersconferentie (internationaal overleg)",
+                "B": "Rijkswaterstaat (nationale waterstaat)",
+                "C": "Waterschappen (regionaal waterbeheer)",
+                "D": "Gemeente (lokale riolering en waterafvoer)"
+              },
+              "uitleg": "Van lokaal naar internationaal: gemeenten beheren de lokale riolering, waterschappen het regionale waterbeheer, Rijkswaterstaat de nationale waterstaat en waterwerken, en de Rijnministersconferentie coördineert het internationale beleid voor het gehele stroomgebied van de Rijn.",
+              "juiste_antwoord": "1:D, 2:C, 3:B, 4:A"
             }
           ]
         }
@@ -887,7 +846,11 @@
                 "Het KNMI maakt toekomstscenario's voor Nederland op basis van internationale bevindingen",
                 "Het IPCC is een organisatie van de Verenigde Naties"
               ],
-              "juiste_antwoorden": [0, 2, 3],
+              "juiste_antwoorden": [
+                0,
+                2,
+                3
+              ],
               "uitleg": "Het KNMI onderzoekt weer en klimaat en maakt toekomstscenario's voor Nederland. Het IPCC is een VN-organisatie die bestaand klimaatonderzoek evalueert en bundelt, maar voert zelf geen nieuw onderzoek uit. De scenario's van het KNMI vormen de basis voor het Deltaprogramma.",
               "afbeelding": "images/bron21_nederland2070.png"
             },
@@ -895,19 +858,14 @@
               "id": 60,
               "type": "volgorde",
               "vraag": "Zet de stappen van het klimaatbeleidproces in de juiste volgorde, van internationaal onderzoek naar Nederlandse maatregelen.",
-              "opties": [
-                "KNMI vertaalt bevindingen naar Nederlandse toekomstscenario's",
-                "Deltaprogramma beschrijft concrete maatregelen voor waterveiligheid",
-                "IPCC evalueert en bundelt wereldwijd klimaatonderzoek",
-                "Overheid neemt deltabeslissingen op basis van de scenario's"
-              ],
-              "juiste_volgorde": [
-                "IPCC evalueert en bundelt wereldwijd klimaatonderzoek",
-                "KNMI vertaalt bevindingen naar Nederlandse toekomstscenario's",
-                "Overheid neemt deltabeslissingen op basis van de scenario's",
-                "Deltaprogramma beschrijft concrete maatregelen voor waterveiligheid"
-              ],
-              "uitleg": "Eerst evalueert het IPCC het wereldwijde klimaatonderzoek. Het KNMI vertaalt deze bevindingen naar scenario's voor Nederland. Op basis daarvan neemt de overheid deltabeslissingen, die worden uitgewerkt in het jaarlijkse Deltaprogramma met concrete maatregelen."
+              "opties": {
+                "A": "KNMI vertaalt bevindingen naar Nederlandse toekomstscenario's",
+                "B": "Deltaprogramma beschrijft concrete maatregelen voor waterveiligheid",
+                "C": "IPCC evalueert en bundelt wereldwijd klimaatonderzoek",
+                "D": "Overheid neemt deltabeslissingen op basis van de scenario's"
+              },
+              "uitleg": "Eerst evalueert het IPCC het wereldwijde klimaatonderzoek. Het KNMI vertaalt deze bevindingen naar scenario's voor Nederland. Op basis daarvan neemt de overheid deltabeslissingen, die worden uitgewerkt in het jaarlijkse Deltaprogramma met concrete maatregelen.",
+              "juiste_antwoord": "1:C, 2:A, 3:D, 4:B"
             }
           ]
         },
@@ -959,26 +917,25 @@
                 "Ruimtelijke adaptatie",
                 "Gaswinning in de Waddenzee"
               ],
-              "juiste_antwoorden": [0, 2, 3],
+              "juiste_antwoorden": [
+                0,
+                2,
+                3
+              ],
               "uitleg": "De drie deltabeslissingen gaan over waterveiligheid, zoetwatervoorziening en ruimtelijke adaptatie. Internationale scheepvaartroutes en gaswinning in de Waddenzee zijn andere beleidsterreinen die niet onder de deltabeslissingen vallen."
             },
             {
               "id": 65,
               "type": "volgorde",
               "vraag": "Zet de onderdelen van het Nederlandse waterbeleid in volgorde van algemeen beleidskader naar lokale uitvoering.",
-              "opties": [
-                "Waterschappen voeren maatregelen uit in hun regio",
-                "Deltaprogramma stelt jaarlijks het beleid vast",
-                "Deltabeslissingen bepalen de koers voor drie thema's",
-                "Integraal waterbeheer brengt alle lokale partijen samen"
-              ],
-              "juiste_volgorde": [
-                "Deltaprogramma stelt jaarlijks het beleid vast",
-                "Deltabeslissingen bepalen de koers voor drie thema's",
-                "Integraal waterbeheer brengt alle lokale partijen samen",
-                "Waterschappen voeren maatregelen uit in hun regio"
-              ],
-              "uitleg": "Het Deltaprogramma is het overkoepelende beleidskader. Daaruit volgen deltabeslissingen over waterveiligheid, zoetwatervoorziening en ruimtelijke adaptatie. Via integraal waterbeheer worden alle partijen betrokken, en waterschappen voeren de maatregelen regionaal uit."
+              "opties": {
+                "A": "Waterschappen voeren maatregelen uit in hun regio",
+                "B": "Deltaprogramma stelt jaarlijks het beleid vast",
+                "C": "Deltabeslissingen bepalen de koers voor drie thema's",
+                "D": "Integraal waterbeheer brengt alle lokale partijen samen"
+              },
+              "uitleg": "Het Deltaprogramma is het overkoepelende beleidskader. Daaruit volgen deltabeslissingen over waterveiligheid, zoetwatervoorziening en ruimtelijke adaptatie. Via integraal waterbeheer worden alle partijen betrokken, en waterschappen voeren de maatregelen regionaal uit.",
+              "juiste_antwoord": "1:B, 2:C, 3:D, 4:A"
             }
           ]
         },
@@ -1031,24 +988,24 @@
                 "Aanplant van bomen om infiltratie te bevorderen",
                 "Kanalisatie van waterlopen"
               ],
-              "juiste_antwoorden": [1, 2, 4],
+              "juiste_antwoorden": [
+                1,
+                2,
+                4
+              ],
               "uitleg": "Afvoer bevorderen (stap 3) omvat maatregelen die water sneller naar zee leiden: obstakels verwijderen, spuisluizen gebruiken en kanalisatie van waterlopen. Retentiegebieden horen bij stap 2 (bergen) en bomen aanplanten bij stap 1 (vasthouden)."
             },
             {
               "id": 70,
               "type": "volgorde",
               "vraag": "Zet de drie stappen van de drietrapsstrategie in de juiste volgorde.",
-              "opties": [
-                "Afvoer bevorderen: water naar zee leiden via sluizen en kanalen",
-                "Bergen: water tijdelijk opslaan in retentiegebieden",
-                "Vasthouden: water laten infiltreren in de bodem"
-              ],
-              "juiste_volgorde": [
-                "Vasthouden: water laten infiltreren in de bodem",
-                "Bergen: water tijdelijk opslaan in retentiegebieden",
-                "Afvoer bevorderen: water naar zee leiden via sluizen en kanalen"
-              ],
-              "uitleg": "De drietrapsstrategie volgt een vaste volgorde: eerst vasthouden (retentie door infiltratie en vegetatie), dan bergen (tijdelijk opslaan in retentiegebieden zoals de Overdiepse Polder), en pas als laatste afvoer bevorderen (water naar zee via sluizen en kanalen)."
+              "opties": {
+                "A": "Afvoer bevorderen: water naar zee leiden via sluizen en kanalen",
+                "B": "Bergen: water tijdelijk opslaan in retentiegebieden",
+                "C": "Vasthouden: water laten infiltreren in de bodem"
+              },
+              "uitleg": "De drietrapsstrategie volgt een vaste volgorde: eerst vasthouden (retentie door infiltratie en vegetatie), dan bergen (tijdelijk opslaan in retentiegebieden zoals de Overdiepse Polder), en pas als laatste afvoer bevorderen (water naar zee via sluizen en kanalen).",
+              "juiste_antwoord": "1:C, 2:B, 3:A"
             }
           ]
         }
@@ -1107,27 +1064,26 @@
                 "De helft van Nederland heeft geen bescherming tegen overstromingen nodig",
                 "1% van het oppervlak betreft de onbedijkte Maas"
               ],
-              "juiste_antwoorden": [0, 1, 3],
+              "juiste_antwoorden": [
+                0,
+                1,
+                3
+              ],
               "uitleg": "Van Nederland ligt 26% onder NAP, 29% boven NAP maar binnen dijkringen, 3% buiten de dijken, en 1% betreft de onbedijkte Maas. Meer dan de helft van Nederland heeft juist wel bescherming nodig tegen overstromingen, via dijkringen en andere waterkeringen."
             },
             {
               "id": 75,
               "type": "volgorde",
               "vraag": "Zet de volgende Deltawerken in chronologische volgorde van voltooiing.",
-              "opties": [
-                "Oosterscheldekering",
-                "Haringvlietdam",
-                "Stormvloedkering Hollandse IJssel",
-                "Maeslantkering"
-              ],
-              "juiste_volgorde": [
-                "Stormvloedkering Hollandse IJssel",
-                "Haringvlietdam",
-                "Oosterscheldekering",
-                "Maeslantkering"
-              ],
+              "opties": {
+                "A": "Oosterscheldekering",
+                "B": "Haringvlietdam",
+                "C": "Stormvloedkering Hollandse IJssel",
+                "D": "Maeslantkering"
+              },
               "uitleg": "De Stormvloedkering Hollandse IJssel (1958) was het eerste Deltawerk, gevolgd door de Haringvlietdam (1971), de Oosterscheldekering (1986) en als laatste de Maeslantkering (1997). Het gehele project duurde bijna 40 jaar.",
-              "afbeelding": "images/bron25_deltawerken.png"
+              "afbeelding": "images/bron25_deltawerken.png",
+              "juiste_antwoord": "1:C, 2:B, 3:A, 4:D"
             }
           ]
         },
@@ -1178,27 +1134,26 @@
                 "Bij eb wordt het water via spuisluizen naar de Waddenzee geleid",
                 "Door zeespiegelstijging worden extra pompstations geplaatst bij de Afsluitdijk"
               ],
-              "juiste_antwoorden": [0, 2, 3],
+              "juiste_antwoorden": [
+                0,
+                2,
+                3
+              ],
               "uitleg": "Het IJsselmeer wordt inderdaad gevoed door de IJssel, bij eb wordt water gespuid naar de Waddenzee, en door zeespiegelstijging zijn extra pompen nodig. De Afsluitdijk werd echter al in 1932 voltooid, niet in 1953. De Watersnoodramp van 1953 leidde tot de Deltawerken, niet tot de Afsluitdijk."
             },
             {
               "id": 80,
               "type": "volgorde",
               "vraag": "Zet de stappen van de waterhuishouding van het IJsselmeer in de juiste volgorde.",
-              "opties": [
-                "Water wordt bij eb gespuid via de Afsluitdijk naar de Waddenzee",
-                "De IJssel voert rivierwater aan naar het IJsselmeer",
-                "Bij hoge zeespiegel worden pompen ingezet om het water weg te pompen",
-                "Water verzamelt zich in het IJsselmeer en het peil stijgt"
-              ],
-              "juiste_volgorde": [
-                "De IJssel voert rivierwater aan naar het IJsselmeer",
-                "Water verzamelt zich in het IJsselmeer en het peil stijgt",
-                "Water wordt bij eb gespuid via de Afsluitdijk naar de Waddenzee",
-                "Bij hoge zeespiegel worden pompen ingezet om het water weg te pompen"
-              ],
+              "opties": {
+                "A": "Water wordt bij eb gespuid via de Afsluitdijk naar de Waddenzee",
+                "B": "De IJssel voert rivierwater aan naar het IJsselmeer",
+                "C": "Bij hoge zeespiegel worden pompen ingezet om het water weg te pompen",
+                "D": "Water verzamelt zich in het IJsselmeer en het peil stijgt"
+              },
               "uitleg": "Eerst voert de IJssel rivierwater aan, waardoor het peil in het IJsselmeer stijgt. Normaal gesproken wordt dit water bij eb gespuid naar de Waddenzee. Maar als de zeespiegel te hoog is voor natuurlijk spuien, moeten pompen het water wegpompen.",
-              "afbeelding": "images/bron39_ijsselmeerpeil.png"
+              "afbeelding": "images/bron39_ijsselmeerpeil.png",
+              "juiste_antwoord": "1:B, 2:D, 3:A, 4:C"
             }
           ]
         },
@@ -1250,27 +1205,26 @@
                 "De Waddeneilanden",
                 "Het IJsselmeergebied"
               ],
-              "juiste_antwoorden": [0, 1, 2],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2
+              ],
               "uitleg": "De Zuidwestelijke Delta omvat de Zeeuwse eilanden, de Zuid-Hollandse eilanden en het westelijk deel van Noord-Brabant. De Waddeneilanden liggen in het noorden van Nederland en het IJsselmeergebied is een apart watersysteem, beschermd door de Afsluitdijk."
             },
             {
               "id": 85,
               "type": "volgorde",
               "vraag": "Zet de gebeurtenissen rond de bescherming van de Zuidwestelijke Delta in chronologische volgorde.",
-              "opties": [
-                "Voltooiing van de Oosterscheldekering als afsluitbare kering",
-                "Watersnoodramp treft Zeeland en Zuid-Holland",
-                "Voltooiing van de Maeslantkering bij Rotterdam",
-                "Aanname van de Deltawet door het parlement"
-              ],
-              "juiste_volgorde": [
-                "Watersnoodramp treft Zeeland en Zuid-Holland",
-                "Aanname van de Deltawet door het parlement",
-                "Voltooiing van de Oosterscheldekering als afsluitbare kering",
-                "Voltooiing van de Maeslantkering bij Rotterdam"
-              ],
+              "opties": {
+                "A": "Voltooiing van de Oosterscheldekering als afsluitbare kering",
+                "B": "Watersnoodramp treft Zeeland en Zuid-Holland",
+                "C": "Voltooiing van de Maeslantkering bij Rotterdam",
+                "D": "Aanname van de Deltawet door het parlement"
+              },
               "uitleg": "De Watersnoodramp (1953) leidde tot de Deltawet (1958), waarna de Deltawerken werden gebouwd. De Oosterscheldekering werd in 1986 voltooid en de Maeslantkering in 1997 als laatste Deltawerk.",
-              "afbeelding": "images/bron24_overstromingsgebieden.png"
+              "afbeelding": "images/bron24_overstromingsgebieden.png",
+              "juiste_antwoord": "1:B, 2:D, 3:A, 4:C"
             }
           ]
         },
@@ -1321,26 +1275,24 @@
                 "Grondwateronttrekking voor landbouw en industrie",
                 "Noordwesterstormen die de bodem eroderen"
               ],
-              "juiste_antwoorden": [0, 2],
+              "juiste_antwoorden": [
+                0,
+                2
+              ],
               "uitleg": "Bodemdaling in Nederland wordt veroorzaakt door ontwatering (het verlagen van de grondwaterstand waardoor veen oxideert en inklinkt) en grondwateronttrekking voor landbouw en industrie. Zeespiegelstijging is een apart probleem dat bodemdaling niet veroorzaakt. Noordwesterstormen veroorzaken kusterosie, geen bodemdaling van het binnenland."
             },
             {
               "id": 90,
               "type": "volgorde",
               "vraag": "Zet de factoren in volgorde van oorzaak naar uiteindelijk gevolg bij het ontstaan van overstromingsgevaar.",
-              "opties": [
-                "Waterkeringen raken overbelast en overstromingsgevaar neemt toe",
-                "Ontwatering van landbouwgrond verlaagt de grondwaterstand",
-                "De bodem daalt doordat veen oxideert en inklinkt",
-                "Het verschil tussen zeeniveau en maaiveld wordt groter"
-              ],
-              "juiste_volgorde": [
-                "Ontwatering van landbouwgrond verlaagt de grondwaterstand",
-                "De bodem daalt doordat veen oxideert en inklinkt",
-                "Het verschil tussen zeeniveau en maaiveld wordt groter",
-                "Waterkeringen raken overbelast en overstromingsgevaar neemt toe"
-              ],
-              "uitleg": "Ontwatering verlaagt de grondwaterstand, waardoor veen in contact komt met lucht, oxideert en inklinkt. Hierdoor daalt de bodem. Het toenemende verschil tussen het dalende maaiveld en het (stijgende) zeeniveau maakt waterkeringen kwetsbaarder, waardoor het overstromingsgevaar toeneemt."
+              "opties": {
+                "A": "Waterkeringen raken overbelast en overstromingsgevaar neemt toe",
+                "B": "Ontwatering van landbouwgrond verlaagt de grondwaterstand",
+                "C": "De bodem daalt doordat veen oxideert en inklinkt",
+                "D": "Het verschil tussen zeeniveau en maaiveld wordt groter"
+              },
+              "uitleg": "Ontwatering verlaagt de grondwaterstand, waardoor veen in contact komt met lucht, oxideert en inklinkt. Hierdoor daalt de bodem. Het toenemende verschil tussen het dalende maaiveld en het (stijgende) zeeniveau maakt waterkeringen kwetsbaarder, waardoor het overstromingsgevaar toeneemt.",
+              "juiste_antwoord": "1:B, 2:C, 3:D, 4:A"
             }
           ]
         }
@@ -1401,26 +1353,25 @@
                 "Onregelmatige neerslag door klimaatverandering",
                 "De aanleg van retentiegebieden langs rivieren"
               ],
-              "juiste_antwoorden": [0, 2, 3],
+              "juiste_antwoorden": [
+                0,
+                2,
+                3
+              ],
               "uitleg": "Ontwatering, grondwateronttrekking en onregelmatige neerslag dragen allemaal bij aan een dalende grondwaterstand. Zeespiegelstijging veroorzaakt verzilting maar geen dalende grondwaterstand. Retentiegebieden zijn juist bedoeld om water vast te houden en helpen de grondwaterstand op peil te houden."
             },
             {
               "id": 95,
               "type": "volgorde",
               "vraag": "Zet de stappen van zoetwaterverdeling via het hoofdwatersysteem in de juiste volgorde.",
-              "opties": [
-                "Gemalen en sluizen verdelen het water naar regionale watersystemen",
-                "Rijn en Maas voeren zoetwater aan vanuit het buitenland",
-                "Lokale waterschappen beheren het peil in sloten en polders",
-                "Het water wordt via stuwen en verdeeelwerken over de grote takken verdeeld"
-              ],
-              "juiste_volgorde": [
-                "Rijn en Maas voeren zoetwater aan vanuit het buitenland",
-                "Het water wordt via stuwen en verdeeelwerken over de grote takken verdeeld",
-                "Gemalen en sluizen verdelen het water naar regionale watersystemen",
-                "Lokale waterschappen beheren het peil in sloten en polders"
-              ],
-              "uitleg": "Zoetwater komt Nederland binnen via Rijn en Maas, wordt vervolgens via stuwen en verdeelwerken over de grote rivierarmen verdeeld, dan via gemalen en sluizen naar regionale systemen geleid, en uiteindelijk beheren lokale waterschappen het waterpeil in sloten en polders."
+              "opties": {
+                "A": "Gemalen en sluizen verdelen het water naar regionale watersystemen",
+                "B": "Rijn en Maas voeren zoetwater aan vanuit het buitenland",
+                "C": "Lokale waterschappen beheren het peil in sloten en polders",
+                "D": "Het water wordt via stuwen en verdeeelwerken over de grote takken verdeeld"
+              },
+              "uitleg": "Zoetwater komt Nederland binnen via Rijn en Maas, wordt vervolgens via stuwen en verdeelwerken over de grote rivierarmen verdeeld, dan via gemalen en sluizen naar regionale systemen geleid, en uiteindelijk beheren lokale waterschappen het waterpeil in sloten en polders.",
+              "juiste_antwoord": "1:B, 2:D, 3:A, 4:C"
             }
           ]
         },
@@ -1472,26 +1423,25 @@
                 "Bescherming tegen stormvloeden uit de Noordzee",
                 "Visserij en natuurgebied"
               ],
-              "juiste_antwoorden": [0, 2, 4],
+              "juiste_antwoorden": [
+                0,
+                2,
+                4
+              ],
               "uitleg": "Het IJsselmeer dient als strategisch zoetwaterreservoir, wordt gebruikt voor recreatie en scheepvaart, en is belangrijk voor visserij en natuur. De Rijn wordt niet via het IJsselmeer afgevoerd (dat gaat via de Waal, Lek en IJssel naar zee). Bescherming tegen stormvloeden is een functie van de Afsluitdijk zelf, niet van het meer."
             },
             {
               "id": 100,
               "type": "volgorde",
               "vraag": "Zet de ontwikkeling van het IJsselmeergebied in chronologische volgorde.",
-              "opties": [
-                "Het IJsselmeer wordt ingezet als strategisch zoetwaterreservoir met flexibel peilbeheer",
-                "De Zuiderzee is een open zeearm met zout water",
-                "Er worden pompstations gepland vanwege zeespiegelstijging",
-                "De Afsluitdijk wordt voltooid en de Zuiderzee wordt het IJsselmeer"
-              ],
-              "juiste_volgorde": [
-                "De Zuiderzee is een open zeearm met zout water",
-                "De Afsluitdijk wordt voltooid en de Zuiderzee wordt het IJsselmeer",
-                "Het IJsselmeer wordt ingezet als strategisch zoetwaterreservoir met flexibel peilbeheer",
-                "Er worden pompstations gepland vanwege zeespiegelstijging"
-              ],
-              "uitleg": "Oorspronkelijk was de Zuiderzee een zoute zeearm. Na de voltooiing van de Afsluitdijk in 1932 werd het een zoetwatermeer. In de loop der tijd is het IJsselmeer steeds belangrijker geworden als zoetwaterreservoir met flexibel peilbeheer. Door de zeespiegelstijging zijn nu extra pompstations nodig."
+              "opties": {
+                "A": "Het IJsselmeer wordt ingezet als strategisch zoetwaterreservoir met flexibel peilbeheer",
+                "B": "De Zuiderzee is een open zeearm met zout water",
+                "C": "Er worden pompstations gepland vanwege zeespiegelstijging",
+                "D": "De Afsluitdijk wordt voltooid en de Zuiderzee wordt het IJsselmeer"
+              },
+              "uitleg": "Oorspronkelijk was de Zuiderzee een zoute zeearm. Na de voltooiing van de Afsluitdijk in 1932 werd het een zoetwatermeer. In de loop der tijd is het IJsselmeer steeds belangrijker geworden als zoetwaterreservoir met flexibel peilbeheer. Door de zeespiegelstijging zijn nu extra pompstations nodig.",
+              "juiste_antwoord": "1:B, 2:D, 3:A, 4:C"
             }
           ]
         },
@@ -1545,26 +1495,26 @@
                 "De aanleg van de Deltawerken heeft alle zoetwater-aanvoer afgesloten",
                 "Het ontbreken van rivieraanvoer maakt Zeeland afhankelijk van regen"
               ],
-              "juiste_antwoorden": [0, 1, 2, 4],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2,
+                4
+              ],
               "uitleg": "Zeespiegelstijging, lage zomerafvoer, bodemdaling en het ontbreken van rivieraanvoer versterken allemaal de verzilting in Zeeland. De Deltawerken hebben niet alle zoetwater-aanvoer afgesloten; Zuid-Holland ontvangt wel rivierwater. Het probleem is dat Zeeland van nature geen rivieraanvoer heeft."
             },
             {
               "id": 105,
               "type": "volgorde",
               "vraag": "Zet het proces van verzilting door zoute kwel in de juiste volgorde.",
-              "opties": [
-                "Gewassen krijgen last van het zoute water in de wortelzone",
-                "De zeespiegel stijgt en de bodem daalt in kustgebieden",
-                "Zout grondwater wordt naar het oppervlak gedrukt (zoute kwel)",
-                "Het zoute water bereikt de zoetwaterlens en maakt deze dunner"
-              ],
-              "juiste_volgorde": [
-                "De zeespiegel stijgt en de bodem daalt in kustgebieden",
-                "Zout grondwater wordt naar het oppervlak gedrukt (zoute kwel)",
-                "Het zoute water bereikt de zoetwaterlens en maakt deze dunner",
-                "Gewassen krijgen last van het zoute water in de wortelzone"
-              ],
-              "uitleg": "Door zeespiegelstijging en bodemdaling neemt de druk op het zoute grondwater toe. Dit zoute water wordt omhooggedrukt (zoute kwel), waardoor de zoetwaterlens dunner wordt. Uiteindelijk bereikt het zoute water de wortelzone van gewassen, wat schade aan de landbouw veroorzaakt."
+              "opties": {
+                "A": "Gewassen krijgen last van het zoute water in de wortelzone",
+                "B": "De zeespiegel stijgt en de bodem daalt in kustgebieden",
+                "C": "Zout grondwater wordt naar het oppervlak gedrukt (zoute kwel)",
+                "D": "Het zoute water bereikt de zoetwaterlens en maakt deze dunner"
+              },
+              "uitleg": "Door zeespiegelstijging en bodemdaling neemt de druk op het zoute grondwater toe. Dit zoute water wordt omhooggedrukt (zoute kwel), waardoor de zoetwaterlens dunner wordt. Uiteindelijk bereikt het zoute water de wortelzone van gewassen, wat schade aan de landbouw veroorzaakt.",
+              "juiste_antwoord": "1:B, 2:C, 3:D, 4:A"
             }
           ]
         }
@@ -1829,26 +1779,24 @@
                 "Zeespiegelstijging maakt het makkelijker om rivierwater af te voeren naar zee",
                 "Het neerslagregiem wordt regelmatiger doordat temperatuurverschillen afnemen"
               ],
-              "juiste_antwoorden": [0, 1],
+              "juiste_antwoorden": [
+                0,
+                1
+              ],
               "uitleg": "Klimaatverandering leidt tot hevigere buien en dus hogere piekafvoeren, en tot meer verdamping in de zomer waardoor watertekorten ontstaan. Zeespiegelstijging maakt afwatering juist moeilijker (niet makkelijker). Het neerslagregiem wordt onregelmatiger, niet regelmatiger."
             },
             {
               "id": 128,
               "type": "volgorde",
               "vraag": "Zet de oorzaak-gevolgketen van klimaatverandering naar overstromingsrisico in de juiste volgorde.",
-              "opties": [
-                "Rivieren moeten meer water in kortere tijd afvoeren (piekafvoer stijgt)",
-                "Klimaatverandering leidt tot een onregelmatiger neerslagregiem",
-                "Het overstromingsrisico in het rivierengebied neemt toe",
-                "Er vallen vaker hevige buien in het stroomgebied"
-              ],
-              "juiste_volgorde": [
-                "Klimaatverandering leidt tot een onregelmatiger neerslagregiem",
-                "Er vallen vaker hevige buien in het stroomgebied",
-                "Rivieren moeten meer water in kortere tijd afvoeren (piekafvoer stijgt)",
-                "Het overstromingsrisico in het rivierengebied neemt toe"
-              ],
-              "uitleg": "De causale keten begint bij klimaatverandering, die leidt tot een onregelmatiger neerslagregiem. Hierdoor vallen er vaker hevige buien, waardoor de piekafvoer van rivieren stijgt. Dit verhoogde debiet vergroot uiteindelijk het overstromingsrisico."
+              "opties": {
+                "A": "Rivieren moeten meer water in kortere tijd afvoeren (piekafvoer stijgt)",
+                "B": "Klimaatverandering leidt tot een onregelmatiger neerslagregiem",
+                "C": "Het overstromingsrisico in het rivierengebied neemt toe",
+                "D": "Er vallen vaker hevige buien in het stroomgebied"
+              },
+              "uitleg": "De causale keten begint bij klimaatverandering, die leidt tot een onregelmatiger neerslagregiem. Hierdoor vallen er vaker hevige buien, waardoor de piekafvoer van rivieren stijgt. Dit verhoogde debiet vergroot uiteindelijk het overstromingsrisico.",
+              "juiste_antwoord": "1:B, 2:D, 3:A, 4:C"
             }
           ]
         },
@@ -1899,26 +1847,25 @@
                 "Ontbossing op hellingen in het stroomgebied",
                 "Kanalisatie van beken en rivieren"
               ],
-              "juiste_antwoorden": [1, 2, 3],
+              "juiste_antwoorden": [
+                1,
+                2,
+                3
+              ],
               "uitleg": "Verstening, ontbossing en kanalisatie verkorten allemaal de vertragingstijd. Verstening voorkomt infiltratie, ontbossing vermindert wateropname door wortels, en kanalisatie laat water sneller stromen. Retentiebekkens doen juist het tegenovergestelde: ze houden water vast en verlengen de vertragingstijd."
             },
             {
               "id": 133,
               "type": "volgorde",
               "vraag": "Zet de oorzaak-gevolgketen van verstedelijking naar overstromingsrisico in de juiste volgorde.",
-              "opties": [
-                "De piekafvoer van de rivier wordt hoger en treedt sneller op",
-                "Regenwater kan niet infiltreren en stroomt direct af naar de rivier",
-                "Door verstedelijking neemt de verstening van het oppervlak toe",
-                "Het overstromingsrisico stroomafwaarts neemt toe"
-              ],
-              "juiste_volgorde": [
-                "Door verstedelijking neemt de verstening van het oppervlak toe",
-                "Regenwater kan niet infiltreren en stroomt direct af naar de rivier",
-                "De piekafvoer van de rivier wordt hoger en treedt sneller op",
-                "Het overstromingsrisico stroomafwaarts neemt toe"
-              ],
-              "uitleg": "Verstedelijking leidt tot meer verstening (meer straten, daken, parkeerplaatsen). Daardoor kan regenwater niet infiltreren en stroomt het direct naar de rivier. Dit verhoogt en versnelt de piekafvoer, wat stroomafwaarts het overstromingsrisico vergroot."
+              "opties": {
+                "A": "De piekafvoer van de rivier wordt hoger en treedt sneller op",
+                "B": "Regenwater kan niet infiltreren en stroomt direct af naar de rivier",
+                "C": "Door verstedelijking neemt de verstening van het oppervlak toe",
+                "D": "Het overstromingsrisico stroomafwaarts neemt toe"
+              },
+              "uitleg": "Verstedelijking leidt tot meer verstening (meer straten, daken, parkeerplaatsen). Daardoor kan regenwater niet infiltreren en stroomt het direct naar de rivier. Dit verhoogt en versnelt de piekafvoer, wat stroomafwaarts het overstromingsrisico vergroot.",
+              "juiste_antwoord": "1:C, 2:B, 3:A, 4:D"
             }
           ]
         },
@@ -1969,24 +1916,23 @@
                 "De Oosterscheldekering is een open kering die alleen bij stormvloed sluit",
                 "Door de Deltawerken is het overstromingsrisico in heel Zuid-Holland verdwenen"
               ],
-              "juiste_antwoorden": [0, 2],
+              "juiste_antwoorden": [
+                0,
+                2
+              ],
               "uitleg": "De Deltawerken beschermen inderdaad tegen stormvloeden door afsluiting van zeearmen, en de Oosterscheldekering is een open kering die alleen bij dreigend hoog water sluit. De Deltawerken hebben niet gezorgd voor meer rivieraanvoer in Zeeland; Zeeland blijft grotendeels afhankelijk van regenwater. Het overstromingsrisico is sterk verminderd maar niet volledig verdwenen."
             },
             {
               "id": 138,
               "type": "volgorde",
               "vraag": "Zet de drietrapsstrategie van het Nederlandse waterbeleid in de juiste volgorde.",
-              "opties": [
-                "Water afvoeren naar rivieren en zee",
-                "Water bergen in retentiegebieden",
-                "Water vasthouden waar het valt (retentie)"
-              ],
-              "juiste_volgorde": [
-                "Water vasthouden waar het valt (retentie)",
-                "Water bergen in retentiegebieden",
-                "Water afvoeren naar rivieren en zee"
-              ],
-              "uitleg": "De drietrapsstrategie van het Nederlandse waterbeleid is: eerst vasthouden (voorkomen dat water direct afstroomt), dan bergen (tijdelijk opslaan in bijvoorbeeld retentiebekkens), en pas als laatste afvoeren (water naar rivieren en zee leiden). Deze volgorde voorkomt dat al het water tegelijk in de rivieren terechtkomt."
+              "opties": {
+                "A": "Water afvoeren naar rivieren en zee",
+                "B": "Water bergen in retentiegebieden",
+                "C": "Water vasthouden waar het valt (retentie)"
+              },
+              "uitleg": "De drietrapsstrategie van het Nederlandse waterbeleid is: eerst vasthouden (voorkomen dat water direct afstroomt), dan bergen (tijdelijk opslaan in bijvoorbeeld retentiebekkens), en pas als laatste afvoeren (water naar rivieren en zee leiden). Deze volgorde voorkomt dat al het water tegelijk in de rivieren terechtkomt.",
+              "juiste_antwoord": "1:C, 2:B, 3:A"
             }
           ]
         }
